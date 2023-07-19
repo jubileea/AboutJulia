@@ -11,4 +11,7 @@ Short Bio
   - TBD -> MAE 8: Matlab for Engineer Analysis 
   - numericalmethods -> MAE 107: Numerical Methods
   - signalssystems -> MAE 143A: Signals and Systems
+ 
+- Networking:
+  - LinkedIn: linkedin.com/in/julialee123/
 
