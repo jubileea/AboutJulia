@@ -8,9 +8,9 @@ Short Bio
 
 
 - Courses taken with Matlab and their repositories:
-  - TBD -> MAE 8: Matlab for Engineer Analysis 
-  - numericalmethods -> MAE 107: Numerical Methods
-  - signalssystems -> MAE 143A: Signals and Systems
+  - TBD -> MAE 8: Matlab for Engineer Analysis SS2 2021
+  - numericalmethods -> MAE 107: Numerical Methods SPR 2023
+  - signalssystems -> MAE 143A: Signals and Systems SS1 2023
  
 - Networking:
   - LinkedIn: linkedin.com/in/julialee123/
