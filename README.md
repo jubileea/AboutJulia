@@ -1,5 +1,4 @@
-# AboutMe
-Short Bio
+# About Julia
 
 **Julia T. Lee**
 
