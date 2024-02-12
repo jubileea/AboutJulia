@@ -12,5 +12,5 @@ Short Bio
   - signalssystems -> MAE 143A: Signals and Systems Summer 2023
  
 - Message me! :)
-  - LinkedIn: linkedin.com/in/julialee123/
+  - LinkedIn: JuliaLee123, [linkedin.com/in/julialee123/](https://linkedin.com/in/julialee123/)
 
