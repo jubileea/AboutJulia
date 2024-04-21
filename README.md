@@ -4,10 +4,10 @@
 
 - B.S. Mechanical Engineering 2025, University of California, San Diego (UCSD)
 
-- Projects in Python
-  - MAE 125: Building Energy Efficiency, Design Project 1: Graphing and Analysis of Power Consumption at Geisel Library at UCSD
+- Projects in Python and repositories
+  - [Link to Building Energy Efficiency](https://github.com/jubileea/BuildingEnergyEfficiency) Design Project 1: Graphing and Analysis of Power Consumption at Geisel Library at UCSD
 
-- Courses taken with Matlab and their repositories:
+- Projects in Matlab and repositories
   - [Link to numericalmethods](https://github.com/jubileea/numericalmethods)  -> MAE 107: Computational Methods Spring 2023
   - [Link to signalssystems](https://github.com/jubileea/signalssystems) -> MAE 143A: Signals and Systems Summer 2023
   - TBP -> MAE 8: Matlab for Engineering Analysis Summer 2021
